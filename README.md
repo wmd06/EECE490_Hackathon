@@ -4,4 +4,4 @@ After examining the data, I realized that it is possible to infer a person's smo
 
 I then utilized machine learning models, including a Neural Network and a Random Forest classifier, to predict the smoking type of individuals. These models were combined using a Stacking Classifier to leverage the strengths of both algorithms.
 
-# Make sure to download the necessary libraries before running the code
+*Make sure to download the necessary libraries before running the code*
